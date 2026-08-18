@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Software developer in training, based in Switzerland. I’m interested in developing<br>software that’s truly user-friendly—especially for people who are usually<br>only considered in UI design as an afterthought.<br><br><br><br>## Current Projects<br><br>**Cognitive Learning App**—a learning application for people with cognitive<br>disabilities, based on clear language, simple interaction patterns, and<br>an accessible user interface. I’m currently exploring Rust and JavaScript for the implementation. I want to build not only software but also websites that are useful and look good at the same time. <br><br>## Technology<br><br>**I work with:** JavaScript · React · Python (Django) · Rust · C++<br> I’m deepening my knowledge of:  Git and collaborative workflows, as well as selecting a primary<br>technology stack in which I’d like to specialize<br><br>## How I Work<br><br>I consider a language mastered once its syntax no longer<br>stands in the way of solving the problem—until then, I continue to develop with it. I publish my work here instead of<br>leaving it on a local hard drive, because code that is read and reviewed<br>improves faster than code that isn’t.<br><br>## Beyond the Code<br><br>- Two cats and a cat allergy—a compromise I’d make again<br>- Ally of the LGBTQ+ community also im love music and Art in general, i draw and play E-gitar
+🎲 Software developer in training, based in Switzerland. I’m interested in developing<br>software that’s truly user-friendly—especially for people who are usually<br>only considered in UI design as an afterthought.<br><br><br><br>## Current Projects<br><br>**Cognitive Learning App**—a learning application for people with cognitive<br>disabilities, based on clear language, simple interaction patterns, and<br>an accessible user interface. I’m currently exploring Rust and JavaScript for the implementation. I want to build not only software but also websites that are useful and look good at the same time. <br><br>## Technology<br><br>**I work with:** JavaScript · React · Python (Django) · Rust · C++<br> I’m deepening my knowledge of:  Git and collaborative workflows, as well as selecting a primary<br>technology stack in which I’d like to specialize<br><br>## How I Work<br><br>I consider a language mastered once its syntax no longer<br>stands in the way of solving the problem—until then, I continue to develop with it. I publish my work here instead of<br>leaving it on a local hard drive, because code that is read and reviewed<br>improves faster than code that isn’t.<br><br>## Beyond the Code<br><br>- Two cats and a cat allergy—a compromise I’d make again<br>- Ally of the LGBTQ+ community also im love music and Art in general, i draw and play E-gitar
 
 ![Cat](https://media.tenor.com/RNDVB1IEHbAAAAAi/anime-kirana.gif)
 
@@ -13,7 +13,7 @@ Software developer in training, based in Switzerland. I’m interested in develo
 ![](https://streak-stats.demolab.com/?user=itsAkitobe&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsAkitobe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 By the way: The GitHub stats aren't working right now because I'm in the process of migrating my code to GitHub.
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
