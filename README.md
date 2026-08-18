@@ -14,10 +14,10 @@
 ![](https://streak-stats.demolab.com/?user=itsAkitobe&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsAkitobe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 By the way: The GitHub stats aren't working right now because I'm in the process of migrating my code to GitHub.
-<br>### ✍️ Random Dev Quote 
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
+
 [![](https://komarev.com/ghpvc/?username=itsAkitobe&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
