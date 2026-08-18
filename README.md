@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🎲 Software developer in training, based in Switzerland. I’m interested in developing<br>software that’s truly user-friendly—especially for people who are usually<br>only considered in UI design as an afterthought.<br><br><br><br> **Current Projects**<br><br>🧠 Cognitive Learning App—a learning application for people with cognitive<br>disabilities, based on clear language, simple interaction patterns, and<br>an accessible user interface. I’m currently exploring Rust and JavaScript for the implementation. I want to build not only software but also websites that are useful and look good at the same time. <br><br> **Technology**<br><br>🫪 **I work with:** JavaScript · React · Python (Django) · Rust · C++<br> I’m deepening my knowledge of:  Git and collaborative workflows, as well as selecting a primary<br>technology stack in which I’d like to specialize<br><br><a href="https://emoji.gg/emoji/267549-catgirlcool"><img src="https://cdn3.emoji.gg/emojis/267549-catgirlcool.png" width="64px" height="64px" alt="CatgirlCool"></a><br>**How I Work**<br><br>I consider a language mastered once its syntax no longer<br>stands in the way of solving the problem—until then, I continue to develop with it. I publish my work here instead of<br>leaving it on a local hard drive, because code that is read and reviewed<br>improves faster than code that isn’t.<br><br> **Beyond the Code**<br><br>- Two cats and a cat allergy—a compromise I’d make again<br>- Ally of the LGBTQ+ community also i love music and Art in general, i draw and play E-gitar.
-<br>**FOLKS** Thank you for being in my Profile.
+<br>**FOLKS** Thank you for being on my Profile.
 
 ![Cat](https://media.tenor.com/RNDVB1IEHbAAAAAi/anime-kirana.gif)
 
