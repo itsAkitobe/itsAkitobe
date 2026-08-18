@@ -12,7 +12,7 @@ Software developer in training, based in Switzerland. I’m interested in develo
 ![](https://github-readme-stats.shion.dev/api?username=itsAkitobe&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=itsAkitobe&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsAkitobe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-btw The Github stats dont work because im trying right now t migrate my code to github  
+By the way: The GitHub stats aren't working right now because I'm in the process of migrating my code to GitHub.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
